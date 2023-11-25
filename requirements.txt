@@ -1,0 +1,6 @@
+#It contains all the packages present while building the project
+pandas
+numpy
+matplotlib
+seaborn
+-e .
